@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+## I'm looking to do data analysis in basketball. Specifically wanting to focus on making observations with data that can be directly applied in-game, such as play-calling, lineups, rest, and so forth.
+
 <!--
 **smm3d2/smm3d2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
